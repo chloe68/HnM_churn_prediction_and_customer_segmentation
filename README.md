@@ -7,8 +7,11 @@ Using H&amp;M public dataset on Kaggle to implement Churn Prediction and Custome
 This project is the final assignment in Strategic & Performance Management class in our Master of Data Science programe in Frankfurt School.
 Inspired by the H&M dataset in a Kaggle competition ([link](https://www.kaggle.com/competitions/h-and-m-personalized-fashion-recommendations)), we want to build a Churn Prediction and Customer Segmentation model out of the transaction and customer data from Septerber 2018 to September 2020.
 
-#### Partner
+#### Partners
 [Carla Weidner](https://github.com/carla1w)
+[MyThu Lam](https://github.com/MyThuL)
+[Eduardo Garcia](https://github.com/egarcia00)
+[Chloe Dang](https://github.com/chloe68)
 
 #### Methods Used
 
