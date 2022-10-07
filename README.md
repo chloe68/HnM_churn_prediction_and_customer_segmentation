@@ -8,11 +8,7 @@ This project is the final assignment in Strategic & Performance Management class
 Inspired by the H&M dataset in a Kaggle competition ([link](https://www.kaggle.com/competitions/h-and-m-personalized-fashion-recommendations)), we want to build a Churn Prediction and Customer Segmentation model out of the transaction and customer data from Septerber 2018 to September 2020.
 
 #### Partner
-
-[Name of Partner organization/Government department etc..]
-Website for partner
-Partner contact: [Name of Contact], [slack handle of contact if any]
-If you do not have a partner leave this section out
+[Carla Weidner](https://github.com/carla1w)
 
 #### Methods Used
 
