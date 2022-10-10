@@ -25,17 +25,14 @@ Python
 Tableau
 Stata
 
-#### Dataset:
-- Download data at this [link](https://www.kaggle.com/competitions/h-and-m-personalized-fashion-recommendations/data)
-
 ## Getting Started
 
 1. Clone this repo (for help see this [tutorial](https://help.github.com/articles/cloning-a-repository/)).
-2. Raw Data is being kept [here](Repo folder containing raw data) within this repo.
+2. Raw Data is being kept [here](https://www.kaggle.com/competitions/h-and-m-personalized-fashion-recommendations/data).
 
     *If using offline data mention that and how they may obtain the data from the froup)*
     
-3. Data processing/transformation scripts are being kept [here](Repo folder containing data processing scripts/notebooks)
-4. Data model scripts are being kept [here]
+3. Data preprocessing and Exploratory Data Analysis scripts are stored in "EDA" folder.
+4. Data model scripts are stored in "Models" folder.
 
 
