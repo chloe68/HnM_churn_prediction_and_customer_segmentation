@@ -15,10 +15,10 @@ Inspired by the H&M dataset in a Kaggle competition ([link](https://www.kaggle.c
 
 #### Methods Used
 
-Inferential Statistics
-Predictive Modeling
-Unsupervised classification
-Feed-forward Neural Network
+- Inferential Statistics
+- Predictive Modeling
+- Unsupervised classification
+- Feed-forward Neural Network
 
 #### Technologies
 Python
