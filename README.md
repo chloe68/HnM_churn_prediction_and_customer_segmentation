@@ -30,7 +30,7 @@ Stata
 1. Clone this repo (for help see this [tutorial](https://help.github.com/articles/cloning-a-repository/)).
 2. Raw Data is being kept [here](https://www.kaggle.com/competitions/h-and-m-personalized-fashion-recommendations/data).
 
-    *If using offline data mention that and how they may obtain the data from the froup)*
+    *If using offline data mention that and how they may obtain the data from the group)*
     
 3. Data preprocessing and Exploratory Data Analysis scripts are stored in "EDA" folder.
 4. Data model scripts are stored in "Models" folder.
