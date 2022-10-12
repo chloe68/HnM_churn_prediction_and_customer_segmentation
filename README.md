@@ -34,5 +34,6 @@ Stata
     
 3. Data preprocessing and Exploratory Data Analysis scripts are stored in "EDA" folder.
 4. Data model scripts are stored in "Models" folder.
+5. Tableau dashboard is stored in "tableau_dahsboard" folder.
 
 
